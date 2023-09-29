@@ -12,7 +12,7 @@ I'm am enthusiastic about learning and contributing to software development proj
 - **Version Control:** Git
 - **Tools:** VS Code, Github, Netlify
 
-## Featured Project
+## Featured Projects
 
 ### get_frames - Video frame extractor (Node.js)
 
