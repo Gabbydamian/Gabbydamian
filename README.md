@@ -18,3 +18,9 @@ I'm am enthusiastic about learning and contributing to software development proj
 
 **Description:** I built a command line program with Node.js that extracts the frames of a video as images, depending on specified frame rate and image quality
 **Github:** [https://github.com/Gabbydamian/get_frames](https://github.com/Gabbydamian/get_frames)
+
+
+### encryptor_app - Web Application (JavaScript)
+
+**Description:** I built an app to encrypt and decrypt text messages.
+**Github:** [https://github.com/Gabbydamian/encryptor_app](https://github.com/Gabbydamian/encryptor_app)
