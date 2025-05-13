@@ -4,10 +4,6 @@
 
 ###
 
-<h1 align="center">Hi there! I'm Damian 👋</h1>
-
-###
-
 <div align="center">
   <a href="https://linkedin.com/in/gabriel-damian-43309423b" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
@@ -25,12 +21,15 @@
 
 ###
 
-<p>I am a Quantity Surveyor turned <span style="color: #06B6D4; font-weight: 600; ">Software developer</span> and <span style="color: #22C55E; font-weight: 600; ">IT expert</span>, bringing analytical precision to web applications. I'm am enthusiastic about learning and contributing to software development projects.
+<h1 align="center">Hi there! I'm Damian 👋</h1>
 
-My goal is to use my skills to build meaningful applications and programs that solve real-world problems, by writing clean and efficient code.</p>
+###
 
-<p align="left">- 🔭 I’m currently working as a software developer<br>- 📚 I'm currently learning web application security and data privacy<br>- ⚡ In my free time I watch movies and play a game of chess</p>
+<h3 align="left">👩‍💻  About Me</h3>
 
+###
+
+<p align="left">I'm Damian Gabriel, from wonderful Nigeria<br><br>- 🔭 I’m currently working as a software developer<br>- 📚 I'm currently learning web application security and data privacy<br>- ⚡ In my free time I watch movies and play a game of chess</p>
 
 ###
 
@@ -86,24 +85,22 @@ My goal is to use my skills to build meaningful applications and programs that s
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
 </div>
 
+###
 
-## Featured Projects
-
-### get_frames - Video frame extractor (Node.js)
-
-**Description:** I built a command line program with Node.js that extracts the frames of a video as images, depending on specified frame rate and image quality
-
-**Github:** [https://github.com/Gabbydamian/get_frames](https://github.com/Gabbydamian/get_frames)
-
-### encryptor_app - Web Application (JavaScript)
-
-**Description:** I built an app to encrypt and decrypt text messages.
-
-**Github:** [https://github.com/Gabbydamian/encryptor_app](https://github.com/Gabbydamian/encryptor_app)
-
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Gabbydamian&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabbydamian/Gabbydamian/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabbydamian/Gabbydamian/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Gabbydamian/Gabbydamian/output/pacman-contribution-graph.svg">
+</picture>
+
+###
